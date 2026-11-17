@@ -106,6 +106,13 @@ The completed Tableau dashboards provide interactive views of:
 - Delay by time of day
 - DFW route activity and geographic distribution
 
+<img width="768" height="333" alt="UA" src="https://github.com/user-attachments/assets/10e7ed10-e4bf-4f63-b882-ef5eea1a5cf5" />
+<img width="768" height="333" alt="F9" src="https://github.com/user-attachments/assets/3c81b7ff-173f-4c57-b5cb-acff295ef333" />
+<img width="768" height="333" alt="DL" src="https://github.com/user-attachments/assets/9020b3cf-882f-47cf-85c7-b59776a805ea" />
+<img width="768" height="333" alt="B6" src="https://github.com/user-attachments/assets/0ba3768f-0212-4a99-a543-3f88e0ddd91d" />
+<img width="768" height="333" alt="AA" src="https://github.com/user-attachments/assets/219e5677-1682-44eb-9440-e58dd23af85a" />
+
+
 **Tableau Dashboard:** [Insert Tableau Public Link]
 
 **Portfolio Case Study:** [Insert Notion Portfolio Link]
@@ -128,8 +135,3 @@ Aviation-Flight-Delay-Analysis/
 │   └── project_documentation.md
 │
 └── README.md
-<img width="768" height="333" alt="UA" src="https://github.com/user-attachments/assets/cf633f10-d29e-4316-a491-2368dab5e5a7" />
-<img width="768" height="333" alt="F9" src="https://github.com/user-attachments/assets/8a4826ef-c1fb-49bc-ba8d-38607cbda1c4" />
-<img width="768" height="333" alt="DL" src="https://github.com/user-attachments/assets/4b98e920-cd92-4442-b5b1-ee66cf3e9f0b" />
-<img width="768" height="333" alt="B6" src="https://github.com/user-attachments/assets/df5614ab-e2fd-4216-ab47-53bd0f854c5b" />
-<img width="768" height="333" alt="AA" src="https://github.com/user-attachments/assets/26d106a7-74d0-449f-af86-4f0bddda721e" />
