@@ -1,5 +1,3 @@
-# Aviation-Flight-Delay-Analysis
-The project is a Flight Delay Analysis of the 2026 data for the Dallas-Fort Worth International Airport (DFW).
 # Aviation Flight Delay Analysis
 
 ## Project Overview
@@ -130,3 +128,8 @@ Aviation-Flight-Delay-Analysis/
 │   └── project_documentation.md
 │
 └── README.md
+<img width="768" height="333" alt="UA" src="https://github.com/user-attachments/assets/cf633f10-d29e-4316-a491-2368dab5e5a7" />
+<img width="768" height="333" alt="F9" src="https://github.com/user-attachments/assets/8a4826ef-c1fb-49bc-ba8d-38607cbda1c4" />
+<img width="768" height="333" alt="DL" src="https://github.com/user-attachments/assets/4b98e920-cd92-4442-b5b1-ee66cf3e9f0b" />
+<img width="768" height="333" alt="B6" src="https://github.com/user-attachments/assets/df5614ab-e2fd-4216-ab47-53bd0f854c5b" />
+<img width="768" height="333" alt="AA" src="https://github.com/user-attachments/assets/26d106a7-74d0-449f-af86-4f0bddda721e" />
