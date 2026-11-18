@@ -106,12 +106,11 @@ The completed Tableau dashboards provide interactive views of:
 - Delay by time of day
 - DFW route activity and geographic distribution
 
-<img width="768" height="333" alt="UA" src="https://github.com/user-attachments/assets/10e7ed10-e4bf-4f63-b882-ef5eea1a5cf5" />
-<img width="768" height="333" alt="F9" src="https://github.com/user-attachments/assets/3c81b7ff-173f-4c57-b5cb-acff295ef333" />
-<img width="768" height="333" alt="DL" src="https://github.com/user-attachments/assets/9020b3cf-882f-47cf-85c7-b59776a805ea" />
-<img width="768" height="333" alt="B6" src="https://github.com/user-attachments/assets/0ba3768f-0212-4a99-a543-3f88e0ddd91d" />
-<img width="768" height="333" alt="AA" src="https://github.com/user-attachments/assets/219e5677-1682-44eb-9440-e58dd23af85a" />
-
+<img width="741" height="249" alt="UA" src="https://github.com/user-attachments/assets/900a7273-ec0d-4ee0-a08a-013ab909abe3" />
+<img width="741" height="249" alt="F9" src="https://github.com/user-attachments/assets/dc29c051-5e22-4397-9b77-cf6ff7673893" />
+<img width="741" height="249" alt="DL" src="https://github.com/user-attachments/assets/dc42457d-0635-4a2c-ae37-20f7794dbc85" />
+<img width="741" height="249" alt="B6" src="https://github.com/user-attachments/assets/93c371f7-d4f9-479a-8de1-bd461023fd75" />
+<img width="741" height="249" alt="AA" src="https://github.com/user-attachments/assets/a77de2dc-790e-4dab-b907-f176f8c9a452" />
 
 **Tableau Dashboard:** [Insert Tableau Public Link]
 
